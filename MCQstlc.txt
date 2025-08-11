@@ -1,0 +1,91 @@
+Which of the following is the correct sequence of phases in the Software Testing Life Cycle (STLC)?
+a) Requirement Analysis → Test Planning → Test Design → Test Execution → Test Closure
+b) Test Planning → Test Execution → Test Design → Test Closure
+c) Test Design → Requirement Analysis → Test Planning → Test Execution
+d) Requirement Analysis → Test Design → Test Planning → Test Execution
+
+ANSWER : A
+
+2. In STLC, which phase involves preparing test scenarios and test cases?
+a) Requirement Analysis
+b) Test Design
+c) Test Planning
+d) Test Closure       ANSWER : B
+
+3. Test planning phase mainly focuses on:
+a) Designing test cases
+b) Allocating resources and defining schedule
+c) Executing tests
+d) Logging defects     ANSWER : B
+
+4. What is the first step in defect life cycle?
+a) Assigned
+b) New
+c) Open
+d) Fixed     ANSWER : B
+
+5. When a defect is fixed and tester verifies it, the status becomes:
+a) Verified
+b) Closed
+c) Reopen
+d) Assigned        ANSWER : B
+
+6. Which status indicates that the defect is not considered valid?
+a) Deferred
+b) Rejected
+c) Duplicate
+d) Closed        ANSWER : B
+
+7. Which type of testing verifies the complete functionality of the application?
+a) Unit Testing
+b) Integration Testing
+c) System Testing
+d) Smoke Testing      ANSWER : C
+
+8. Which type of testing is performed without planning or documentation?
+a) Regression Testing
+b) Exploratory Testing
+c) Unit Testing
+d) Sanity Testing    ANSWER : B
+
+9. Alpha testing is performed by:
+a) End users at client site
+b) Developers at development site
+c) Testers at development site
+d) Both developers and testers    ANSWER : C
+
+10. Which testing is done to check whether new changes have not broken existing functionality?
+a) Sanity Testing
+b) Regression Testing
+c) Performance Testing
+d) Unit Testing     ANSWER : B
+
+11. Which testing technique divides input data into valid and invalid partitions?
+a) Boundary Value Analysis
+b) Decision Table Testing
+c) Equivalence Partitioning
+d) State Transition Testing     ANSWER : C
+
+12. Boundary Value Analysis focuses on:
+a) Testing inputs at their extreme limits
+b) Random inputs
+c) Middle range values
+d) Invalid inputs only         ANSWER : A
+
+13. State Transition Testing is most suitable for:
+a) Applications with multiple states
+b) Static web pages
+c) Simple CRUD operations
+d) Command line programs      ANSWER : A
+
+14. Decision Table Testing is used when:
+a) There are complex business rules
+b) Only numeric inputs
+c) No conditions are involved
+d) Test cases are very few      ANSWER : A
+
+15. Which of the following is a black-box testing technique?
+a) Statement Coverage
+b) Path Testing
+c) Equivalence Partitioning
+d) Mutation Testing     ANSWER : C
